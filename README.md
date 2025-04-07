@@ -82,6 +82,6 @@ Chaque TP couvre une thématique précise liée à l'administration système Lin
 
 ## 📬 Contact
 
-> Pour toute question ou collaboration, retrouvez-moi sur [mon portfolio](#https://arthur-chesse.vercel.app/) ou via [mon Linkedin](#https://www.linkedin.com/in/arthur-chesse/).  
+> Pour toute question ou collaboration, retrouvez-moi sur [mon portfolio](https://arthur-chesse.vercel.app/) ou via [mon Linkedin](https://www.linkedin.com/in/arthur-chesse/).  
 Merci pour votre visite 👋
 
